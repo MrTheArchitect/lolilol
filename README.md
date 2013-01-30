@@ -1,4 +1,4 @@
 lolilol
-=======
+===============================================README=======================================================
 
-First repository
+This is my first repository about my maturity work for school.
